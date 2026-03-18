@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E8C84A&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8D%82+Hey%2C+I'm+Autumn;Developer+%7C+Editor+%7C+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E8C84A&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8D%82+Hey%2C+I'm+Autumn;Developer+%7C+Editor+%7C+Creator" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -48,8 +48,18 @@ I build tools I wish existed. When I'm not wiring circuits, I'm either deep in A
 
 ---
 
+### 📬 Connect with Me
+
+Feel free to reach out — always down to collaborate on cool projects.
+
+- 📧 **Email:** [st6.autumn@gmail.com](mailto:st6.autumn@gmail.com)
+- 💬 **Discord:** `st6.autumn`
+- 🔗 **Linktree:** [linktr.ee/st6.autumn](https://linktr.ee/st6.autumn)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=st6autumn&color=E8C84A&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center"><sub>🍂 made by Autumn</sub></p>****
+<p align="center"><sub>🍂 made by Autumn</sub></p>
