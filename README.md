@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E8C84A&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8D%82+Hey%2C+I'm+Autumn;Developer+%7C+Editor+%7C+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E8C84A&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8D%82+Hey%2C+I'm+Autumn;Developer+%7C+Editor+%7C+Creator;Top+500+Overwatch+%F0%9F%8E%AE" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ I build tools I wish existed. When I'm not wiring circuits, I'm either deep in A
 - 🔧 **Electrician** by trade — I work with my hands as much as my keyboard
 - 🎬 **Video Editor** — After Effects 2025, Blender, motion design & VFX
 - 💻 **Developer** — Built [st6.download](https://github.com/st6autumn/st6-download), a video & music downloader with 6 animated themes
-- 🎓 Always learning — currently exploring video enhancement, upscaling, and AI-driven workflows
+- 🎮 **Top 500 Overwatch** console player — also a sucker for story games like Life is Strange, Cyberpunk 2077, Detroit, RDR2, and Before Your Eyes
 
 ---
 
