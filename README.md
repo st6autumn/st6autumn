@@ -12,7 +12,7 @@
 
 ### 🍂 About Me
 
-I build tools I wish existed. When I'm not wiring circuits, I'm either deep in After Effects crafting motion graphics or writing code to automate the stuff nobody wants to do manually. I like making things that feel polished — the kind of software where someone goes *"wait, one person made this?"*
+Just a guy who likes making stuff. Electrician, video editor, coder, and way too many hours in Overwatch.
 
 - 🔧 **Electrician** by trade — I work with my hands as much as my keyboard
 - 🎬 **Video Editor** — After Effects 2025, Blender, motion design & VFX
