@@ -16,7 +16,7 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
 
 - 🔧 **Electrician** by trade — I work with my hands as much as my keyboard
 - 🎬 **Video Editor** — After Effects 2025, Blender, motion design & VFX
-- 💻 **Developer** — Built [st6.download](https://github.com/st6autumn/st6-download), a video & music downloader with 6 animated themes
+- 💻 **Developer** — Building free, open-source tools for creators
 - 🎮 **Top 500 Overwatch** console player — also a sucker for story games like Life is Strange, Cyberpunk 2077, Detroit, RDR2, and Before Your Eyes
 
 ---
@@ -29,11 +29,18 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-<a href="https://github.com/st6autumn/st6-download">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=st6-download&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
-</a>
+<p align="center">
+  <a href="https://github.com/st6autumn/St6.Interpo-Scale">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=St6.Interpo-Scale&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/st6autumn/st6-download">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=st6-download&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
+  </a>
+</p>
+
+**st6.interpo-scale** — AI-powered After Effects extension for upscaling, frame interpolation, denoising, restoration, sharpening & depth maps. Runs locally on NVIDIA, AMD & Intel GPUs. No cloud, no subscriptions.
 
 **st6.download** — An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
 
