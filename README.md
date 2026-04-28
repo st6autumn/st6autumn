@@ -17,7 +17,7 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
 - 🔧 **Electrician** by trade — I work with my hands as much as my keyboard
 - 🎬 **Video Editor** — After Effects 2025, Blender, motion design & VFX
 - 💻 **Developer** — Building free, open-source tools for creators
-- 🎮 **Top 500 Overwatch** console player — also a sucker for story games like Life is Strange, Cyberpunk 2077, Detroit, RDR2, and Before Your Eyes
+- 🎮 **Top 500 Overwatch** Console & PC player — also a sucker for story games like Life is Strange, Cyberpunk 2077, Detroit, RDR2, and Before Your Eyes
 
 ---
 
@@ -32,17 +32,17 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/st6autumn/St6.Interpo-Scale">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=St6.Interpo-Scale&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
+  <a href="https://github.com/st6autumn/St6.Lapidary">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=St6.Lapidary&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/st6autumn/st6-download">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=st6-download&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
   </a>
 </p>
 
-**st6.interpo-scale** — AI-powered After Effects extension for upscaling, frame interpolation, denoising, restoration, sharpening & depth maps. Runs locally on NVIDIA, AMD & Intel GPUs. No cloud, no subscriptions.
+**St6.Lapidary** — AI-powered After Effects extension for upscaling, frame interpolation, depth maps & motion utilities. Real-CUGAN Pro, every RIFE variant, Depth Anything V3 — all running locally on your GPU. Self-contained .zxp install with auto-updates and a one-click engine downloader.
 
-**st6.download** — An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
+**[st6.download](https://st6.download)** — An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
 
 ---
 
