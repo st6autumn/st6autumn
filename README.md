@@ -35,12 +35,17 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
   <a href="https://github.com/st6autumn/St6.Lapidary">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=St6.Lapidary&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
   </a>
+  <a href="https://github.com/st6autumn/St6.Audio-Splitter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=St6.Audio-Splitter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
+  </a>
   <a href="https://github.com/st6autumn/st6-download">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=st6autumn&repo=st6-download&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C84A&icon_color=E8C84A&text_color=c9d1d9" />
   </a>
 </p>
 
 **St6.Lapidary** — AI-powered After Effects extension for upscaling, frame interpolation, depth maps & motion utilities. Real-CUGAN Pro, every RIFE variant, Depth Anything V3 — all running locally on your GPU. Self-contained .zxp install with auto-updates and a one-click engine downloader.
+
+**St6.Audio Splitter** — Split any audio layer in After Effects into vocals, drums, bass, and music with one click. Local Demucs inference on your GPU, with merge/delete/solo/two-stems modes, auto-import back into the comp, and the same auto-update flow as Lapidary. The local-AE answer to vocalremover.org.
 
 **[st6.download](https://st6.download)** — An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
 
