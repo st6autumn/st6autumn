@@ -43,11 +43,19 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
   </a>
 </p>
 
-**St6.Lapidary** — AI-powered After Effects extension for upscaling, frame interpolation, depth maps & motion utilities. Real-CUGAN Pro, every RIFE variant, Depth Anything V3 — all running locally on your GPU. Self-contained .zxp install with auto-updates and a one-click engine downloader.
+#### 🍂 [St6.Lapidary](https://github.com/st6autumn/St6.Lapidary) &nbsp;·&nbsp; *AI video toolkit for After Effects*
+A self-contained CEP extension. Real-CUGAN Pro upscaling for anime, Real-ESRGAN for live action, every RIFE interpolation variant, Depth Anything V3 depth maps. Auto-detects which upscale model fits your footage. Runs entirely on your local GPU — no cloud, no accounts, no watermarks. Free.
+> **[Download v1.1.0](https://github.com/st6autumn/St6.Lapidary/releases/latest)** &nbsp;·&nbsp; **[Website](https://st6lapidary.pages.dev/)**
 
-**St6.Audio Splitter** — Split any audio layer in After Effects into vocals, drums, bass, and music with one click. Local Demucs inference on your GPU, with merge/delete/solo/two-stems modes, auto-import back into the comp, and the same auto-update flow as Lapidary. The local-AE answer to vocalremover.org.
+#### 🪶 [St6.Lapidary Lite](https://github.com/st6autumn/St6.Lapidary/releases/tag/lite-v1.0.0) &nbsp;·&nbsp; *Lapidary, but for low-end PCs*
+Sister panel built specifically for rigs with **4 GB VRAM and 8 GB RAM**. Pure ncnn-Vulkan — no Python, no CUDA, no PyTorch. Works on NVIDIA, AMD, and Intel out of the box (including iGPUs). Includes a custom-built ncnn port of RIFE 4.25 that didn't exist publicly before, plus auto-detected vendor routing to TensorRT / DirectML / OpenVINO when the main panel is also installed.
+> **[Download Lite v1.0.0](https://github.com/st6autumn/St6.Lapidary/releases/tag/lite-v1.0.0)** &nbsp;·&nbsp; **[Website](https://st6lapidary.pages.dev/)**
 
-**[st6.download](https://st6.download)** — An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
+#### 🎵 [St6.Audio Splitter](https://github.com/st6autumn/St6.Audio-Splitter) &nbsp;·&nbsp; *Stem-split audio layers in AE*
+Split any audio layer in After Effects into vocals, drums, bass, and music with one click. Local Demucs inference on your GPU, with merge/delete/solo/two-stems modes, auto-import back into the comp, and the same auto-update flow as Lapidary. The local-AE answer to vocalremover.org.
+
+#### 🌙 [st6.download](https://github.com/st6autumn/st6-download) &nbsp;·&nbsp; *Universal video / music downloader*
+An Electron-based video & music downloader with support for YouTube, TikTok, Instagram, Spotify, SoundCloud & more. Features 6 animated canvas themes, a custom splash screen, CRT power-down close animation, and multi-language support.
 
 ---
 
