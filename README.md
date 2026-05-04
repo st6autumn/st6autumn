@@ -16,7 +16,7 @@ Just a guy who likes making stuff. Electrician, video editor, coder, and way too
 
 - 🔧 **Electrician** by trade — I work with my hands as much as my keyboard
 - 🎬 **Video Editor** — After Effects 2025, Blender, motion design & VFX
-- 💻 **Developer** — Building free, open-source tools for creators
+- 💻 **Developer** — Building free tools for creators
 - 🎮 **Top 500 Overwatch** Console & PC player — also a sucker for story games like Life is Strange, Cyberpunk 2077, Detroit, RDR2, and Before Your Eyes
 
 ---
